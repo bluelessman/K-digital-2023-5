@@ -9,7 +9,7 @@
 + pnusw06	김윤정	: https://github.com/YunChongKim
 + pnusw07	김지언	:
 + pnusw08	문형호	: https://github.com/halloween96/
-+ pnusw09	박상민	:
++ pnusw09	박상민	: https://github.com/parksangmin1/
 + pnusw10	박예찬	:
 + pnusw11	박주원	:
 + pnusw12	백진우	:https://github.com/bluelessman
