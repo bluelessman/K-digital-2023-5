@@ -16,6 +16,6 @@
 + pnusw14	옥지현	:
 + pnusw15	윤석현	:
 + pnusw16	이지연	:
-+ pnusw17	이지원	:
++ pnusw17	이지원	: https://github.com/summer1029
 + pnusw18	조효정	:
 + pnu40115	허선행	:
