@@ -11,7 +11,7 @@
 + pnusw09	박상민	:
 + pnusw10	박예찬	:
 + pnusw11	박주원	:
-+ pnusw12	백진우	:
++ pnusw12	백진우	:https://github.com/bluelessman
 + pnusw13	성빈	:
 + pnusw14	옥지현	: https://github.com/Jadedvst
 + pnusw15	윤석현	:
