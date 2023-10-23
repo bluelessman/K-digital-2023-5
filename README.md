@@ -2,7 +2,7 @@
 ## AI 활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정 5기
 
 + pnusw01	강민지	:
-+ pnusw02	강태규	:
++ pnusw02	강태규	: https://github.com/Tea9yu
 + pnusw04	김수정	: https://github.com/rysk621/K-digital-2023-5
 + pnusw05	김원혁	:
 + pnusw06	김윤정	: https://github.com/YunChongKim
