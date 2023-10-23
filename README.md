@@ -11,11 +11,11 @@
 + pnusw09	박상민	:
 + pnusw10	박예찬	:
 + pnusw11	박주원	:
-+ pnusw12	백진우	:
++ pnusw12	백진우	:https://github.com/bluelessman
 + pnusw13	성빈	:
 + pnusw14	옥지현	: https://github.com/Jadedvst
-+ pnusw15	윤석현	:
++ pnusw15	윤석현	: https://github.com/hyun3936
 + pnusw16	이지연	:https://github.com/zeeyeoni
 + pnusw17	이지원	: https://github.com/summer1029
 + pnusw18	조효정	:
-+ pnu40115	허선행	:
++ pnu40115	허선행	: https://github.com/sonenhur
