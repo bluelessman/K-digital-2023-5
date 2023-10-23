@@ -5,17 +5,17 @@
 + pnusw02	강태규	:
 + pnusw04	김수정	: https://github.com/rysk621/K-digital-2023-5
 + pnusw05	김원혁	:
-+ pnusw06	김윤정	:
++ pnusw06	김윤정	: https://github.com/YunChongKim
 + pnusw07	김지언	:
-+ pnusw08	문형호	:
++ pnusw08	문형호	: https://github.com/halloween96/
 + pnusw09	박상민	:
 + pnusw10	박예찬	:
 + pnusw11	박주원	:
 + pnusw12	백진우	:
 + pnusw13	성빈	:
-+ pnusw14	옥지현	:
++ pnusw14	옥지현	: https://github.com/Jadedvst
 + pnusw15	윤석현	:
-+ pnusw16	이지연	:
-+ pnusw17	이지원	:
++ pnusw16	이지연	:https://github.com/zeeyeoni
++ pnusw17	이지원	: https://github.com/summer1029
 + pnusw18	조효정	:
 + pnu40115	허선행	:
