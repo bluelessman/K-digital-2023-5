@@ -1,7 +1,7 @@
 # K-digital-2023-5기 (2023-10-16)
 ## AI 활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정 5기
 
-+ pnusw01	강민지	:
++ pnusw01	강민지	:https://github.com/kkkmz
 + pnusw02	강태규	:
 + pnusw04	김수정	:
 + pnusw05	김원혁	:
