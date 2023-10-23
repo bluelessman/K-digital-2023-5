@@ -16,6 +16,6 @@
 + pnusw14	옥지현	: https://github.com/Jadedvst
 + pnusw15	윤석현	:
 + pnusw16	이지연	:https://github.com/zeeyeoni
-+ pnusw17	이지원	:
++ pnusw17	이지원	: https://github.com/summer1029
 + pnusw18	조효정	:
 + pnu40115	허선행	:
