@@ -5,7 +5,7 @@
 + pnusw02	강태규	:
 + pnusw04	김수정	:
 + pnusw05	김원혁	:
-+ pnusw06	김윤정	:
++ pnusw06	김윤정	: https://github.com/YunChongKim
 + pnusw07	김지언	:
 + pnusw08	문형호	:
 + pnusw09	박상민	:
