@@ -3,7 +3,7 @@
 
 + pnusw01	강민지	:
 + pnusw02	강태규	:
-+ pnusw04	김수정	:
++ pnusw04	김수정	: https://github.com/rysk621/K-digital-2023-5
 + pnusw05	김원혁	:
 + pnusw06	김윤정	:
 + pnusw07	김지언	:
