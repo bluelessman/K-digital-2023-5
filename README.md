@@ -13,7 +13,7 @@
 + pnusw11	박주원	:
 + pnusw12	백진우	:
 + pnusw13	성빈	:
-+ pnusw14	옥지현	:
++ pnusw14	옥지현	: https://github.com/Jadedvst
 + pnusw15	윤석현	:
 + pnusw16	이지연	:
 + pnusw17	이지원	:
